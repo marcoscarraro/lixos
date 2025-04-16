@@ -1,0 +1,12 @@
+{
+  "cols": [
+    { "id": "", "label": "Tipo", "type": "string" },
+    { "id": "", "label": "Valor", "type": "number" },
+    { "id": "", "role": "annotation", "type": "string" }
+  ],
+  "rows": [
+    { "c": [ { "v": "Pedidos Faturados" }, { "v": 900 }, { "v": "R$ 900,00" } ] },
+    { "c": [ { "v": "Ordens de Serviço" }, { "v": 2560 }, { "v": "R$ 2.560,00" } ] },
+    { "c": [ { "v": "Total" }, { "v": 3452 }, { "v": "R$ 2.300,00" } ] }
+  ]
+}
