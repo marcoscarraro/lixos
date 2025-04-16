@@ -2,7 +2,7 @@
   "cols": [
         {"id": "A", "label":"Dia","type":"number"},
         {"id": "B","label":"Mês Atual","type":"number"},
-		{"id": "C","label":"Mês Anterior","type":"number"},
+		{"id": "C","label":"Mês Anterior","type":"number"}
       ],
   "rows": [
         {"c":[{"v": "1"},
